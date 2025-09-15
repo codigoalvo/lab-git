@@ -1,3 +1,4 @@
-content for file a
+changed content for file a on branch feature-c
 branch a
 more content for file a
+new content for file a on branch feature-c
