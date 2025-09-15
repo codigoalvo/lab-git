@@ -1,3 +1,4 @@
-content for file a
+updating data content for file a on branch feature-rebase
 branch a
 more content for file a
+an extra content for file-a created on branch feature-rebase
